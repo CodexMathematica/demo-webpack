@@ -1,0 +1,3 @@
+LOADERS(Passer de typescript à javascript)
+
+MODE (development ou production)
