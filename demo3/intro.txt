@@ -1,0 +1,2 @@
+PLUGINS
+    Initier npm + mettre webpack et sa cli + ajouter un script build
