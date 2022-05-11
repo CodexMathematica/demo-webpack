@@ -1,0 +1,9 @@
+Javascript ne prevoie pas d'inclusion de fichier.
+Bundler = plusieurs fichier en un seul. (Plusieurs entrée pour une sortie)
+
+Webpack (4 parties)
+    entry points
+    output
+    et entre les deux   
+        le loader (changer le contenu d'un fichier image ou typescript en fichier js)
+        les plugins (Roles très différents, exemple : compresser un fichier image)
